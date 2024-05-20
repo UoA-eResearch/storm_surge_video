@@ -1,0 +1,6 @@
+pandas
+geopandas
+seaborn
+jupyterlab
+mysqlclient
+sqlalchemy
